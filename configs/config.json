@@ -4,12 +4,14 @@
       "min_ios_version": 15.1,
       "min_required_version": "1.5.0",
       "latest_version": "1.1.0",
+      "latest_buildNumber": "2",
       "store_url": "https://apps.apple.com/app/id..."
     },
     "android": {
       "min_android_version": 30,
       "min_required_version": "1.5.0",
       "latest_version": "1.1.0",
+      "latest_versionCode": "2",
       "store_url": "https://play.google.com/store/apps/details?id..."
     }
   },
