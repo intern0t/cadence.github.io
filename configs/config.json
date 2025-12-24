@@ -1,6 +1,9 @@
 {
   "min_ios_version": 15.1,
   "min_android_version": 30,
-  "maintenance_mode": true,
-  "latest_app_version": "1.0.0"
+  "latest_app_version": "1.0.0",
+  "maintenance": {
+    "maintenance": true,
+    "message": "Sorry! We're currently undergoing backend maintenance. Check back soon .."
+  }
 }
