@@ -1,7 +1,18 @@
 {
-  "min_ios_version": 15.1,
-  "min_android_version": 30,
-  "latest_app_version": "1.0.0",
+  "version_config": {
+    "ios": {
+      "min_ios_version": 15.1,
+      "min_required_version": "1.0.0",
+      "latest_version": "1.1.0",
+      "store_url": "https://apps.apple.com/app/id..."
+    },
+    "android": {
+      "min_android_version": 30,
+      "min_required_version": "1.0.0",
+      "latest_version": "1.1.0",
+      "store_url": "https://play.google.com/store/apps/details?id..."
+    }
+  },
   "maintenance": {
     "maintenance": false,
     "title": "Server Maintenance",
