@@ -4,6 +4,7 @@
   "latest_app_version": "1.0.0",
   "maintenance": {
     "maintenance": true,
+    "title": "Server Maintenance",
     "message": "Sorry! We're currently undergoing backend maintenance. Check back soon .."
   }
 }
